@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nimStudent": 194172001,
+      "name": "Student 1",
+      "phone": "0872456371",
+      "studyprogram": "Informatics Engineering",
+      "tahun": "2019",
+      "status": "ACTIVE"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "nimStudent": 194172002,
+      "name": "Student 2",
+      "phone": "0872456371",
+      "studyprogram": "Informatics Engineering",
+      "tahun": "2017",
+      "status": "LEAVE"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nimStudent": 194172003,
+      "name": "Student 3",
+      "phone": "0872456371",
+      "studyprogram": "Informatics Engineering",
+      "tahun": "2019",
+      "status": "ACTIVE"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nimStudent": 194172004,
+      "name": "Student 4",
+      "phone": "0872456371",
+      "studyprogram": "Informatics Engineering",
+      "tahun": "2016",
+      "status": "GRADUATED"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
